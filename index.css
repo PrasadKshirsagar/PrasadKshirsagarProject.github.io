@@ -1,0 +1,115 @@
+body
+ {
+ 	font-family: arial,sans-serif;
+ 	background-color: white;
+   
+    height: 100%;
+
+}
+
+#wrapper{
+
+
+background-color: white;
+margin: 0 auto;
+padding: 10px;
+width: 1200px;
+border: 2px solid black;
+
+}
+
+#test
+{
+  
+background-color: white;
+margin: 0 auto;
+padding: 10px;
+border: 2px solid #dedede
+
+
+}
+
+#banner{
+
+border: 5px solid #dedede;
+height: 180px;
+
+}
+
+.mySlides
+{
+  height: 300px;
+  border: 5px solid black;
+
+}
+
+#short
+{
+	
+  float: left;
+  margin: 25px;
+  height: 400px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+#nav ul
+{
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+
+
+}
+
+
+
+#nav a
+{
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 19px 18px;
+    text-decoration : none;
+    font-size: 20px;
+
+}
+
+#list
+{
+float: left;
+margin-left: 50px;
+
+
+}
+
+#list a:link {
+    color: red;
+}
+
+
+#list a:visited {
+    color: red;
+}
+
+
+#list a:hover {
+    color: blue;
+}
+
+#list a:active {
+    color: blue;
+}
+
